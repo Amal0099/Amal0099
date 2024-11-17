@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Amal0099
+- 📚I'm  Currently studying Computer Science student at Umm Al-Qura University.
+- 👀I have a great passion for programming and problem-solving, and I strive to use my skills to serve my community.
+- 🌱 I’m currently learning the basics of web development.
+- 💻 My skills: Programming in Java and MySQL.
+- 📫 You can reach me at: AMAL.AM2030@outlook.com
